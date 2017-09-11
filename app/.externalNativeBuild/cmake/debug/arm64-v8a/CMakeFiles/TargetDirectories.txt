@@ -1,0 +1,7 @@
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/native_app_glue.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/game.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/debug/arm64-v8a/glm/CMakeFiles/glm.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/debug/arm64-v8a/glm/CMakeFiles/edit_cache.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/debug/arm64-v8a/glm/CMakeFiles/rebuild_cache.dir

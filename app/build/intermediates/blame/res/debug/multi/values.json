@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\gits\\android-ndk-master\\endless-tunnel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "E:\\gits\\android-ndk-master\\endless-tunnel\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 51,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 73,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "E:\\gits\\android-ndk-master\\endless-tunnel\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 74,
+                        "endOffset": 779
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\gits\android-ndk-master\endless-tunnel\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c4caa3c7a1bf2ff8126917d183d00c82748f511">
+        <dex dex="E:\gits\android-ndk-master\endless-tunnel\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c0ff4cc9a005b9c4ac5655f1e623e182abc23943\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\gits\android-ndk-master\endless-tunnel\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\gits\android-ndk-master\endless-tunnel\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ca453299bdd41081d232a6b16b1c8021b5e359f2\classes.dex" />
+    </item>
+
+</items>

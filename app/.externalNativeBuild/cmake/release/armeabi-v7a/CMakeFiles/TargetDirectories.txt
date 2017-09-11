@@ -1,0 +1,7 @@
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/native_app_glue.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/game.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi-v7a/glm/CMakeFiles/glm.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi-v7a/glm/CMakeFiles/edit_cache.dir
+E:/gits/android-ndk-master/endless-tunnel/app/.externalNativeBuild/cmake/release/armeabi-v7a/glm/CMakeFiles/rebuild_cache.dir

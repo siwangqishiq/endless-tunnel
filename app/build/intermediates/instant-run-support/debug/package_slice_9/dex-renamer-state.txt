@@ -1,0 +1,4 @@
+#Mon Sep 11 19:57:49 CST 2017
+base.0=E\:\\gits\\android-ndk-master\\endless-tunnel\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=E\:\\gits\\android-ndk-master\\endless-tunnel\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex
